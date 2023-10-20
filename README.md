@@ -16,3 +16,8 @@ modelname, brandname, RAM, storage, camera, battery, price
 -ram.php : all models sort by ram
 -storage.php : all models sort by storage capacity
 -price.php : all models sort by price range
+
+Task3: Integrating APIs 
+Planning to fetch realtime price from amazon api
+40% work is done
+the moment it is completed, files will be added here.
